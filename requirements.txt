@@ -1,9 +1,5 @@
-numpy
-ipywidgets
-nbinteract
-matplotlib
-ipympl
-nglview
-plotly=4.11.0
-nbconvert=6.0.7
-nbformat=5.0.8
+numpy==1.19.2
+ipywidgets==7.5.1
+matplotlib==3.2.2
+nglview==2.7.7
+plotly==4.11.0

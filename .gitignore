@@ -1,6 +1,3 @@
 solutions
-S4*.ipynb
-S5*.ipynb
-S6*.ipynb
-S7*.ipynb
 .ipynb_checkpoints*
+.vscode
