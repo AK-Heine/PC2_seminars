@@ -4,4 +4,6 @@ nbinteract
 matplotlib
 ipympl
 nglview
-scikit-image
+plotly=4.11.0
+nbconvert=6.0.7
+nbformat=5.0.8
