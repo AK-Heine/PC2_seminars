@@ -3,3 +3,5 @@ ipywidgets
 nbinteract
 matplotlib
 ipympl
+nglview
+scikit-image
